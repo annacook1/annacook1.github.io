@@ -1,0 +1,106 @@
+html{
+  height: 100%;
+}
+
+
+#caption{
+  color: #8E8C8C;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Avantgarde", Times, serif;
+}
+
+#aboutmetitle{
+  text-align: center;
+  font-size: 40px;
+  color: #353537;
+  font-weight: bold;
+  padding-bottom: 20px;
+  font-family: "Avantgarde",Times, serif;
+}
+
+#about-me{
+  text-align: left;
+  font-size: 30px;
+  color: #353537;
+  font-family: "Avantgarde", Times, serif;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+
+#security{
+  text-align: center;
+  font-size: 40px;
+  color: #353537;
+  font-family: "Avantgarde", Times, serif;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+#data{
+  text-align: center;
+  font-size: 40px;
+  color: #353537;
+  font-family: "Avantgarde", Times, serif;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+#development{
+  text-align: center;
+  font-size: 40px;
+  color: #353537;
+  font-family: "Avantgarde", Times, serif;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+#the-next-5-years{
+  text-align: left;
+  font-size: 30px;
+  color: #353537;
+  font-family:"Avantgarde," Times, serif;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+
+#coding-experience{
+  text-align: left;
+  font-size: 30px;
+  color: #353537;
+  font-family:"Avantgarde," Times, serif;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+
+#email{
+  font-size: 20px;
+  color: #353537;
+  font-family:"Avantgarde," Times, serif;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+#important{
+  font-size: 50px;
+  text-transfrom: uppercase;
+  color: black;
+}
+
+#email{
+  font-size: 30px;
+  color: #353537;
+}
+
+#Linkedin{
+  font-size: 30px;
+  color: #353537;
+}
