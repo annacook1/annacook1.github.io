@@ -104,3 +104,11 @@ html{
   font-size: 30px;
   color: #353537;
 }
+
+
+#link{
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
